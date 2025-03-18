@@ -59,5 +59,5 @@ Este proyecto es de código abierto y puedes modificarlo y compartirlo librement
 ---
 
 ## 📩 Contacto
-Si tienes dudas o sugerencias, puedes escribirme a [tu-email@example.com].
+Si tienes dudas o sugerencias, puedes escribirme a [huber.tique86@outlook.com].
 
